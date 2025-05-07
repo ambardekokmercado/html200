@@ -1,4 +1,4 @@
-// countdown.js
+// countdown.js - lesson 2 
 
 let number = 10; // You can change this to start from any number
 

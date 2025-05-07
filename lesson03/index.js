@@ -1,4 +1,4 @@
-// calculator.js
+// calculator.js - lesson 3
 
 // Declare variables
 let a = 10;
