@@ -1,5 +1,7 @@
 // countdown.js
 
+
+// Declare variables
 let number = 10; // You can change this to start from any number
 
 while (number >= 0) {

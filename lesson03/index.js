@@ -16,5 +16,5 @@ console.log("Combined: (a + b) * c =", (a + b) * c);    // (10 + 5) * 3 = 45
 console.log("Exponentiation: b ** d =", b ** d);       // 5 ** 2 = 25
 
 // Update a variable using compound assignment
-a += c;  // a = a + c = 10 + 3 = 13
+a += c;  // a = a + c => 10 + 3 = 13
 console.log("Updated a after a += c:", a);
