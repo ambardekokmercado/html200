@@ -4,7 +4,7 @@
 let dog = 1 
 let cat = 2
 
-console.log (dog+cat); bestfriends
+console.log (dog+cat); bestfriendsforever
 
 // Declare variables - the below are examples I pulled from the internet that make sense in theory, but I still find confusing to read. 
 // let a = 10;
