@@ -1,7 +1,7 @@
 // countdown.js
 
 for (let number=0;number < 5; number++) {
-  console.log ('hola');
+  console.log ('holaamigos');
 }
 
 // countdown.js - this countdown will stop at 5 
