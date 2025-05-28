@@ -6,7 +6,7 @@ let cat = 2
 
 console.log (dog+cat);
 
-// console.log will read 3
+// console.log will read '3' - removed error result 
 // https://codepen.io/umbarlumbar/pen/myyYMdd
 
 
