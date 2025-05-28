@@ -4,7 +4,12 @@
 let dog = 1 
 let cat = 2
 
-console.log (dog+cat); bestfriendsforever
+console.log (dog+cat);
+
+// console.log will read 3
+// https://codepen.io/umbarlumbar/pen/myyYMdd
+
+
 
 // Declare variables - the below are examples I pulled from the internet that make sense in theory, but I still find confusing to read. 
 // let a = 10;
